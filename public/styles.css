@@ -1,0 +1,42 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.headerImg {
+    width: 150px;
+}
+
+
+
+header {
+    background-color: rgb(191, 0, 216);
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clase1 {
+
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+
+
+
+
+}
+
+
+
+
+
+
+a {
+    text-decoration: solid;
+    color: black;
+}
